@@ -1,7 +1,11 @@
-### Hi there 👋
-
-
-<h3 style="bottom-border: 1px solid gray;">Qualifications</h3>
+<h3>Education</h3>
+<hr>
+<h5>Northern Kentucky University</h5>
+<ul>
+  <li>Computer Science major, Data Science minor</li>
+</ul>
+<h3>Qualifications</h3>
+<hr>
 <ul>
   <li>Comfortable designing software in Python, Java, HTML, CSS, and JavaScript</li>
   <li>experience utilizing 3rd party Python libraries such as Pandas, Tkinter, and TensorFlow to develop software</li>
