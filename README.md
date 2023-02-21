@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+<h3 style="bottom-border: 1px solid gray;">Qualifications</h3>
+<ul>
+  <li>Comfortable designing software in Python, Java, HTML, CSS, and JavaScript</li>
+  <li>experience utilizing 3rd party Python libraries such as Pandas, Tkinter, and TensorFlow to develop software</li>
+  <li>Familiarity with Agile principals</li>
+  <li>Comfortable using resources such as ChatGPT, Google search operators, and StackOverflow to efficiently implement solutions</li>
+  <li>Experience in navigating Linux and the command prompt</li>
+  <li>Comfortable working cross-platform with personal experience on Windows, Ubuntu, MacOS, Android, and IOS</li>
+
+
+
+  
+</ul>
 <!--
 **lukenorberg/lukenorberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
