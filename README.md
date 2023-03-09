@@ -1,11 +1,12 @@
-<h3>Education</h3>
-#
+## Education
 <h5>Northern Kentucky University</h5>
 <ul>
   <li>Applied Software Engineering major, Data Science and Computer Science minor</li>
 </ul>
-<h3>Qualifications</h3>
-#<ul>
+
+## Qualifications
+
+<ul>
   <li>Comfortable designing software in Python, Java, HTML, CSS, and JavaScript</li>
   <li>experience utilizing 3rd party Python libraries such as Pandas, Tkinter, and TensorFlow to develop software</li>
   <li>Familiarity with Agile principals</li>
